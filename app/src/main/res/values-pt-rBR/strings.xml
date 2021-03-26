@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="obesidade_i">Obesidade I</string>
+    <string name="obesidade_ii">Obesidade II</string>
+    <string name="obesidade_iii">Obesidade Grave III</string>
+    <string name="magreza">Magreza</string>
+    <string name="normal">Normal</string>
+    <string name="quilos_lowercase">quilos</string>
+    <string name="metros_lowercase">metros</string>
+    <string name="altura_hint">Altura (metro)</string>
+    <string name="peso_hint">Peso (quilo)</string>
+    <string name="titulo_imc">Cálculo de IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="indefinido">Não identificado</string>
+    <string name="sua_classificacao">Sua classificação</string>
+    <string name="seu_imc">Seu IMC</string>
+    <string name="msg_preencha_valores">Por favor, preencha os dois campos.</string>
+    <string name="msg_valores_invalos">Valores inválidos ou não reais.</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="peso">Weight</string>
+    <string name="altura">Height</string>
+    <string name="calcular_imc">IMC Result</string>
+    <string name="obesidade_i">Obesity I</string>
+    <string name="obesidade_ii">Obesity II</string>
+    <string name="obesidade_iii">Several Obesity III</string>
+    <string name="magreza">Thinness</string>
+    <string name="normal">Normal</string>
+    <string name="quilos_lowercase">kilos</string>
+    <string name="metros_lowercase">meters</string>
+    <string name="altura_hint">Height (meter)</string>
+    <string name="peso_hint">Weight (kilo)</string>
+    <string name="titulo_imc">IMC Test</string>
+    <string name="resultado">Result</string>
+    <string name="indefinido">Undefined</string>
+    <string name="sua_classificacao">Your status</string>
+    <string name="seu_imc">Your IMC</string>
+    <string name="msg_preencha_valores">Please, input values in both fields.</string>
+    <string name="msg_valores_invalos">These values are unreal or incorrect.</string>
+</resources>
